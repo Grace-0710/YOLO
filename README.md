@@ -2,9 +2,14 @@
 
 <h2>setting</h2>
 <div>1. anaconda 환경설정</div>
-<div>2. pycharm terminal cmd로 변경</div>
-<div>3. 코드 작성</div>
+<div>환경변수 path에 추가</div>
+<div>anaconda3</div>
+<div>anaconda3\Library</div>
+<div>anaconda3\Scripts</div>
 <br>
+<div>2. pycharm terminal cmd로 변경</div>
+<br>
+<div>3. 코드 작성</div>
 <div>- conda install cmake ninja</div>
 <div>- pip install -r requirements.txt</div>
 <div>- conda install mkl mkl-include</div>
