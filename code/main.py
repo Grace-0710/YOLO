@@ -5,6 +5,7 @@ from PIL import Image
 
 # 학습에 필요한 설정값들입니다.
 data_dir = Path("data")  # 데이터 디렉토리 경로
+print('데이타 경로::', data_dir)
 video_dir = data_dir / "videos"  # 동영상 데이터 디렉토리 경로
 video_path = video_dir / "sample_video.mp4"  # 학습에 사용할 동영상 경로
 image_dir = data_dir / "images"  # 이미지 데이터 디렉토리 경로
