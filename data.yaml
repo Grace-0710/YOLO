@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['assult']
+
+roboflow:
+  workspace: project-vpl7k
+  project: find-assult
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project-vpl7k/find-assult/dataset/1
